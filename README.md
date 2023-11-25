@@ -1,0 +1,2 @@
+# assets
+Sürekli güncellenmeye gereksinimler
